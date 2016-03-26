@@ -2,3 +2,13 @@ abc
 line 2
 line 3
 line 4 (3rd change)
+
+
+
+
+
+
+
+fork 1 line a
+fork 1 line b
+fork 1 line c
